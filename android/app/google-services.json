@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "34065287658",
+    "firebase_url": "https://criber.firebaseio.com",
+    "project_id": "criber",
+    "storage_bucket": "criber.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:34065287658:android:9403bf520af717bc",
+        "android_client_info": {
+          "package_name": "com.criber.criber"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "34065287658-7me06s227llvo5ncdvt2hff1dsphlmqq.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAzCqcs6RpA5n8YpVhBeHnM_izkBLJM3sY"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
